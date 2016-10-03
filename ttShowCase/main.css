@@ -1,0 +1,18 @@
+﻿body {
+    font-family: Calibri;
+    width: 800px;
+}
+
+h1{
+    border: 1px solid;
+    border-color: #C5DAF8;
+    font-size: 17pt;
+    color: crimson;
+    text-align: center;
+    background-color: #F7FAFE;
+    line-height: 52px;
+}
+
+footer {
+font-size:7pt;
+}
