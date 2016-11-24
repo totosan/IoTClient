@@ -4,6 +4,7 @@
 'use strict';
 var EventHubClient = require('azure-event-hubs').Client;
 var CO2_lib = require('jsupm_mhz16');
+var grove = require('jsupm_grove');
 var Promise = require('bluebird');
 var Moment = require('moment');
 var outputStr = "";

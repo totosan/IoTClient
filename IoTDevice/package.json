@@ -14,7 +14,8 @@
     "cylon-i2c": "^0.18.0",
     "cylon-intel-iot": "^0.4.0",
     "moment": "^2.15.1",
-    "serialport": "^2.1.2"
+    "serialport": "^2.1.2",
+    "jsupm_grove": "^0.7.0"
   },
   "devDependencies": {
     "gulp": "^3.8.11",
